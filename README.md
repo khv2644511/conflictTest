@@ -1,3 +1,3 @@
 # conflictTest
 
-hello
+hello1
